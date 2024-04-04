@@ -106,7 +106,3 @@ dkms.conf
 # Avoid all greengrass build files
 **zip-build
 **greengrass-build
-
-# Pytorch model files
-*.pt
-*.tar.gz
